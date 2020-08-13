@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\18kar\Desktop\Workstation\Bypass\Sys\Main.cpp(50,14): warning C4477: 'fprintf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\Users\18kar\Desktop\Workstation\Bypass\Sys\Main.cpp(50,14): warning C4313: 'fprintf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+C:\Users\18kar\Desktop\Workstation\Bypass\Sys\Main.cpp(49,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18kar\Desktop\Workstation\Bypass\Sys\Main.cpp(94,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\18kar\Desktop\Workstation\Bypass\Sys\Main.cpp(180,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\18kar\Desktop\Workstation\Bypass\Sys\Main.cpp(202,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sys.vcxproj -> C:\Users\18kar\Desktop\Workstation\Bypass\x64\Release\Sys.dll
